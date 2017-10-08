@@ -24,3 +24,4 @@ while True:
         (readIDStatus,cardID) = RFID_RC522.MFRC522_Anticoll()
         print "cardID: " + str(cardID)
         print " "
+        print " "
